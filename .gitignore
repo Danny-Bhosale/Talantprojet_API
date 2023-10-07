@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TalantoProject.Common/bin/Debug/net7.0
+/TalantoProject.Common/obj
+/TalantoProject.Dao/bin/Debug/net7.0
+/TalantoProject.Dao/obj
+/talantoProject.Services/bin/Debug/net7.0
+/talantoProject.Services/obj
+/Talantoproject_API/bin/Debug/net7.0
+/Talantoproject_API/obj
